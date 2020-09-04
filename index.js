@@ -1,3 +1,4 @@
+//assume that the position of a user first in the queue starts at 1 not 0
 
 class Queue {
     constructor() {
